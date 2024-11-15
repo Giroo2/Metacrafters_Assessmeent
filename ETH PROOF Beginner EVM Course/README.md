@@ -32,14 +32,14 @@ Compile and deploy the contract.
 Copy your account address and paste it into the _address fields of the burn, mint, and balances functions.
 
 To mint tokens:
- -Enter a value in the _value field.
- -Click the totalSupply button to verify the updated supply.
-To burn tokens:
- -Enter a value in the _value field of the burn function.
- -Click the totalSupply button to confirm the reduced supply.
+  -Enter a value in the _value field.
+  -Click the totalSupply button to verify the updated supply.
+ To burn tokens:
+  -Enter a value in the _value field of the burn function.
+  -Click the totalSupply button to confirm the reduced supply.
 To check token details:
- -Click tokenAbbr for the abbreviation or TokenName for the name.
- Note: If the burn value exceeds the supply, the supply remains at zero.
+  -Click tokenAbbr for the abbreviation or TokenName for the name.
+Note: If the burn value exceeds the supply, the supply remains at zero.
 
  ## Authors
  Names and contact details of the contributors
